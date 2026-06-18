@@ -14,5 +14,6 @@
   "distractionFree": false,
   "noEscapeQuotesInLooksLike": false,
   "confirmFileDelete": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "openBehavior": "file:00_Dashboard/🏠 总览"
 }
