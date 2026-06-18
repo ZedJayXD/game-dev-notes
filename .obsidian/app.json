@@ -1,0 +1,18 @@
+{
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Assets/Screenshots",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01_Projects",
+  "showLineNumber": true,
+  "spellcheck": false,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "rtl": false,
+  "vimMode": false,
+  "baselineDensity": 3,
+  "distractionFree": false,
+  "noEscapeQuotesInLooksLike": false,
+  "confirmFileDelete": true,
+  "trashOption": "local"
+}

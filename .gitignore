@@ -1,0 +1,17 @@
+# Obsidian 本地配置（不共享）
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/*.json.bak
+.trash/
+
+# 临时文件
+*.tmp
+*.bak
+~$*.md
+
+# OS 文件
+Thumbs.db
+Desktop.ini
+.DS_Store
