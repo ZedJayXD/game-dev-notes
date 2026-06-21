@@ -1,14 +1,12 @@
-# 📁 Godot 学习导航
+# 📁 Unity 学习导航
 
-> Godot 引擎学习笔记总入口。
+> Unity 引擎学习笔记总入口。
 
 ---
 
-## 📚 正在学习
+## 📂 学习目录
 
-| 教程 | 进度 | 笔记数 |
-|------|------|--------|
-| **《勇者传说》Godot4教程** | ✅ 00~05 已完成 | 6 篇 |
+- [[CorgiEngine/📁 CorgiEngine学习导航|📁 CorgiEngine 源码学习]]
 
 ---
 
@@ -16,7 +14,7 @@
 
 ```dataview
 TABLE status as "状态", created as "创建日", file.folder AS "位置"
-FROM "02_Engine/Godot"
+FROM "02_Engine/Unity"
 WHERE type = "learning"
 SORT created ASC
 ```

@@ -7,10 +7,10 @@
 ## 📖 学习笔记
 
 ```dataview
-TABLE status as "状态"
+TABLE status as "状态", created as "创建日"
 FROM "02_Engine/Unity/CorgiEngine"
 WHERE type = "learning"
-SORT file.name ASC
+SORT created ASC
 ```
 
 ---
@@ -27,4 +27,10 @@ SORT file.name ASC
 - [ ] 完成核心模块研读
 - [ ] 整理框架架构图
 - [ ] 提炼可复用模式
+
+---
+
+## ➕ 添加笔记
+
+使用模板 `T-学习笔记` 创建，放在本文件夹下。
 

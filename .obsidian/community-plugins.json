@@ -1,11 +1,11 @@
 [
   "dataview",
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "quickadd",
   "templater-obsidian",
   "obsidian42-brat",
   "i18n",
   "media-extended",
-  "gdscript-syntax-highlighting"
+  "gdscript-syntax-highlighting",
+  "obsidian-excalidraw-plugin"
 ]
