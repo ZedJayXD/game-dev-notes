@@ -1,12 +1,12 @@
 ---
 type: project
-engine: 
+engine: godot
 tags: []
-created: "{{date}}"
+created: <% tp.date.now("YYYY-MM-DD") %>
 status: active
 ---
 
-# {{title}}
+# <% tp.file.title %>
 
 ## 🎯 项目概述
 
@@ -20,9 +20,16 @@ status: active
 
 ## 📝 开发日志
 
-### {{date}}
+### <% tp.date.now("YYYY-MM-DD") %>
 
 ## 🐛 已知问题
 
 ## 🔗 相关笔记
 
+```dataview
+TABLE status, created
+FROM "01_Projects"
+WHERE file.name != this.file.name
+SORT created DESC
+LIMIT 5
+```

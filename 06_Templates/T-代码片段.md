@@ -3,10 +3,10 @@ type: code
 language: csharp
 engine: unity
 tags: []
-created: "{{date}}"
+created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-# {{title}}
+# <% tp.file.title %>
 
 ## 📄 描述
 
@@ -21,4 +21,3 @@ created: "{{date}}"
 ## ⚠️ 注意事项
 
 ## 🔗 来源
-
