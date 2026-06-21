@@ -3,7 +3,6 @@ type: daily
 tags: []
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
-
 # 📅 <% tp.date.now("YYYY-MM-DD") %> 日报
 
 ## ✅ 今日完成

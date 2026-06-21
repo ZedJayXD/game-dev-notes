@@ -3,7 +3,6 @@ type: drawing
 tags: []
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
-
 # 🎨 <% tp.file.title %>
 
 ## 📝 说明
