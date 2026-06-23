@@ -1,4 +1,8 @@
 {
   "theme": "Default",
-  "accentColor": "#7C5CFC"
+  "accentColor": "#7C5CFC",
+  "cssTheme": "Cupertino",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSizeAction": true,
+  "baseFontSize": 18
 }
