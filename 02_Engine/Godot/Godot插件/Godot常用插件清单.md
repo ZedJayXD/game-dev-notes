@@ -1,3 +1,9 @@
+---
+type: reference
+engine: godot
+tags: []
+created: 2026-06-21
+---
 
 # 动画： 
 1：AS2P(搜索时搜索Animated Sprite to Animation Player Convertor)

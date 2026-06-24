@@ -26,7 +26,7 @@ resolved:
 
 ```dataview
 TABLE severity, status, created
-FROM #issue OR type="issue"
-WHERE status != "resolved"
+FROM ""
+WHERE type = "issue" AND status != "resolved"
 SORT severity DESC, created DESC
 ```

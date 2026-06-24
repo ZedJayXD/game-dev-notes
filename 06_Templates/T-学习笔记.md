@@ -17,10 +17,17 @@ status: ongoing
 ## 🔗 参考来源
 
 ## 📂 相关笔记
+
+### 系列导航
+
+- TODO: 填写系列笔记链接，如 `[[00.基础项目]] → [[01.相机]] → ...`
+
+### 同系列笔记
+
 ```dataview
 TABLE type, status, created
 FROM ""
-WHERE contains(file.tags, this.tags[0]) AND file.name != this.file.name
-SORT created DESC
+WHERE file.frontmatter.subject = this.subject AND file.name != this.file.name
+SORT created ASC
 LIMIT 10
 ```

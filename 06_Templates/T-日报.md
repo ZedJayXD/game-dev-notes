@@ -22,6 +22,6 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 ```dataview
 TABLE type, status
 FROM ""
-WHERE created >= date(today) - dur(7 days)
-SORT created DESC
+WHERE file.ctime >= date(today) - dur(7 days)
+SORT file.ctime DESC
 ```

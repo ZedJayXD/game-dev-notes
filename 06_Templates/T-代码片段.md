@@ -1,7 +1,7 @@
 ---
 type: code
-language: csharp
-engine: unity
+language: # csharp / gdscript / 其他
+engine: # unity / godot / 其他
 tags: []
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
@@ -11,8 +11,8 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 💻 代码
 
-```csharp
-
+```language
+# 替换为实际语言：csharp / gdscript / javascript / ...
 ```
 
 ## 📝 用法

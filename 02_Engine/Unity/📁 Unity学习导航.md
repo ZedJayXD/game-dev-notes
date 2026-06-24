@@ -1,3 +1,8 @@
+---
+type: moc
+tags:
+---
+
 # 📁 Unity 学习导航
 
 > Unity 引擎学习笔记总入口。
@@ -6,7 +11,7 @@
 
 ## 📂 学习目录
 
-- [[CorgiEngine/📁 CorgiEngine学习导航|📁 CorgiEngine 源码学习]]
+- 暂无笔记
 
 ---
 
