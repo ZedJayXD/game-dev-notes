@@ -2,7 +2,7 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Assets/Screenshots",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "01_Projects",
   "showLineNumber": true,
   "spellcheck": false,
