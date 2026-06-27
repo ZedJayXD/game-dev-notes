@@ -1,6 +1,5 @@
 [
   "dataview",
-  "obsidian-git",
   "quickadd",
   "templater-obsidian",
   "obsidian42-brat",
@@ -8,5 +7,7 @@
   "media-extended",
   "gdscript-syntax-highlighting",
   "obsidian-excalidraw-plugin",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "fast-note-sync",
+  "obsidian-git"
 ]
