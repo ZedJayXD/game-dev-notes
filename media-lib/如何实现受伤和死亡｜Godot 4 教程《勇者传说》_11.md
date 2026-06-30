@@ -26,4 +26,5 @@ cover: "[[mx-cover-bilibili_bv_BV1Z94y1V74m.jpg]]"
 aspect_ratio: 16 / 9
 subtitles:
   - "[[jtvqcy9i9akn5oni0hv0jwwy.e-YC.ai-zh.vtt#lang=ai-zh&label=%E4%B8%AD%E6%96%87+%28AI%29]]"
+  - "[[jtvqcy9i9akn5oni0hv0jwwy.ur1s.ai-zh.vtt#lang=ai-zh&label=%E4%B8%AD%E6%96%87+%28AI%29]]"
 ---
