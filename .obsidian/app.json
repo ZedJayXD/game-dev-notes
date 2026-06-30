@@ -15,5 +15,5 @@
   "noEscapeQuotesInLooksLike": false,
   "confirmFileDelete": true,
   "trashOption": "local",
-  "openBehavior": "file:00_Dashboard/🏠 总览"
+  "openBehavior": ""
 }
